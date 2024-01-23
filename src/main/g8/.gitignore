@@ -1,0 +1,9 @@
+.idea
+.ivy2
+.metals
+.bloop
+.vscode
+.bsp
+.DS_Store
+.env
+target
